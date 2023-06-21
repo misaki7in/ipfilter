@@ -6,20 +6,16 @@
     1.录入白名单的标题，如**XX单位【云防节点】，**输入白名单规则，支持三种IP格式的输入。
     [![pCGnhVS.png](https://s1.ax1x.com/2023/06/21/pCGnhVS.png)](https://imgse.com/i/pCGnhVS)
     [![pCGnWb8.png](https://s1.ax1x.com/2023/06/21/pCGnWb8.png)](https://imgse.com/i/pCGnWb8)
-    <br>
     2.根据需求启用或新建白名单规则，输入对应的IP段，即可实现IP地址的过滤
     [![pCGnoCj.png](https://s1.ax1x.com/2023/06/21/pCGnoCj.png)](https://imgse.com/i/pCGnoCj)
     3.如果你具有微步的APItoken的话【**注意:微步API需要申请，并且非企业用户每天可查询额度固定为50，超出则无法查询**】，可以输入APItoken，对IP地址进行威胁查询和地址查询，并过滤出恶意标签的IP地址。
 
     [![pCGn72n.png](https://s1.ax1x.com/2023/06/21/pCGn72n.png)](https://imgse.com/i/pCGn72n)
-    <br>
-    获取微步API的方式: 访问链接: [https://x.threatbook.com/v5/myApi](https://x.threatbook.com/v5/myApi) 
+    **获取微步API的方式: **访问链接: [https://x.threatbook.com/v5/myApi](https://x.threatbook.com/v5/myApi) 
 
     **注意: 注意确认自己每日的API查询IP的额度，个人用户较少，每天只有50次，建议申请企业用户。**
     [![pCGnHvq.png](https://s1.ax1x.com/2023/06/21/pCGnHvq.png)](https://imgse.com/i/pCGnHvq)
-
     ## 0X03 效果展示
-    
     [![pCGnqK0.png](https://s1.ax1x.com/2023/06/21/pCGnqK0.png)](https://imgse.com/i/pCGnqK0)
     **最终结果整理成值守话术，美滋滋~~~~,再也不担心封错IP地址。**
     [![pCGnT8s.png](https://s1.ax1x.com/2023/06/21/pCGnT8s.png)](https://imgse.com/i/pCGnT8s)
