@@ -26,7 +26,7 @@
 ## 0X04 使用注意
 1.项目目录文件如下<br>
 [![pCGn4Ug.png](https://s1.ax1x.com/2023/06/21/pCGn4Ug.png)](https://imgse.com/i/pCGn4Ug) <br>
-2.项目文件哈希值如下【注意别被攻击队钓鱼了】   <br>
+2.项目文件哈希值如下【注意哈希，防止文件损坏或篡改】   <br>
 [![pCGn55Q.png](https://s1.ax1x.com/2023/06/21/pCGn55Q.png)](https://imgse.com/i/pCGn55Q)   
 ```
 SHA1 的 IPFilter.exe 哈希:
@@ -35,10 +35,3 @@ MD5 的 IPFilter.exe 哈希:
 f102e67b979a4daefd195ca8e859b537
 ```
 <br>
-3.考虑到部分小伙伴有特殊的需求，可以加我微信拿源码<br>
-
-[![pCGKfhQ.png](https://s1.ax1x.com/2023/06/21/pCGKfhQ.png)](https://imgse.com/i/pCGKfhQ)
-
-
-
-`
